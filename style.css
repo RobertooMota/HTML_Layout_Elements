@@ -70,20 +70,13 @@ footer{
     padding-left: 10px;
 }
 
-.lu{
-
-    
-    border: 3px solid yellow;
-    padding: 5px;
-
-}
-
 .lista{
+    border: 3px solid rgb(209, 4, 192);
     display: flex;
-    justify-items: center;
+    align-items: center;
+    text-align: justify;
+    justify-content: space-evenly;
+    padding: 5px;
+    
 }
 
-li{
-    border: 3px solid gray;
-    margin: 5px;
-}
