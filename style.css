@@ -49,7 +49,7 @@ aside{
 }
 
 .section-1{
-    font-size: 1em;
+    font-size: 1rem;
     border: 3px dashed purple;
     padding: 5px;
     margin: 5px;
@@ -57,7 +57,14 @@ aside{
 
 .section-2{
     border: 3px dashed green;
-    font-size: 1em;
+    font-size: 1rem;
+    padding: 5px;
+    margin: 5px;
+}
+
+.section-3{
+    border: 3px dashed rgb(70, 19, 189);
+    font-size: 1rem;
     padding: 5px;
     margin: 5px;
 }
